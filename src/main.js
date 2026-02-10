@@ -1,3 +1,6 @@
+// TODO Level 3: add more indicators with a dropdown
+// TODO Level 4: add brushing + linking between charts and map
+// TODO: add time-based exploration later
 import "./style.css";
 
 // files in public/data
